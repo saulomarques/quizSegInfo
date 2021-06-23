@@ -7,14 +7,16 @@
   
 # 👉 Descrição: <a id="link2"></a>
 
-* Quiz sobre Segurança da Informação para usuários de estações locais baseado nas Cartilhas de segurança do Cert.br.
-* Nesta aplicação o usuário responderá a uma série de perguntas sobre segurança da informação, e estas respostas servirão para dois fatores:
-  1. Fornecer informações para parte da pesquisa qualitativa desta pesquisa de mestrado
-  2. Mostrar ao usuário vulnerabilidades que podem ser tratadas, melhoradas e/ou corrigidas para elevar o nível de segurança da informação no ambiente testado, no ponto mais vulnerável e suscetível a falhas e ataques, que é o usuário.
+* Quiz sobre Segurança da Informação para usuários baseado nas Cartilhas de segurança do Cert.br.
+* Nesta aplicação o usuário responderá a uma série de perguntas sobre segurança da informação, e isso trará alguns benefícios, tais como:
+
+  1. Gerar um maior conhecimento sobre o assunto
+  2. Contribuir para um ambiente de internet mais seguro
+  3. Fornecer informações sobre as técnicas de invasão mais utilizadas
+  4. Definir e informar sobre vírus de computador
  
-* O aplicativo tratará todas as respotas fornecidas, pontuará cada uma delas segundo critérios ainda a definir, e retornará ao usuário informações relevantes do estado atual de sua estação de trabalho em relação à segurança da informação, tais como:
-  1. Estado atual: Crítico; Baixo; Médio; Bom; Excelente.
-  2. Ações preventivas e corretivas
+* O aplicativo analisará cada resposta fornecida, definirá como certa ou errada e trará como resultado a nota final do usuário. Não há nota mínima ou qualquer tipo de avaliação.
+O intuito é fazer com que o usuário leia mais sobre os assuntos de Segurança da Informação, utilize o Quiz quantas vezes quiser, e dessa forma construa um conhecimento mais sólido. Na mesma tela de resultado, há um link para o site oficial do Cert.br, onde o usuário poderá ler online ou baixar a cartilha informativa completa sobre Segurança da Informação para internet.
 
 # 👉 Índice
 
