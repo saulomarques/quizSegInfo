@@ -7,7 +7,7 @@
   
 # 👉 Descrição: <a id="link2"></a>
 
-* Quiz sobre Segurança da Informação para usuários baseado nas Cartilhas de segurança do Cert.br.
+* Quiz sobre Segurança da Informação para Usuários de internet baseado nas Cartilhas de segurança do Cert.br.
 * Nesta aplicação o usuário responderá a uma série de perguntas sobre segurança da informação, e isso trará alguns benefícios, tais como:
 
   1. Gerar um maior conhecimento sobre o assunto
