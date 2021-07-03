@@ -1,8 +1,8 @@
 # 👉  Título: QUIZ SegInfo <a id="link1"></a>
 
 <p float="left">
-  <img src="https://github.com/saulomarques/app/blob/master/Logo_Quiz%20SI.png" width="190" heigth="190" />
-  <img src="https://github.com/saulomarques/app/blob/master/Banner%20Quiz%20SegInfo.png" width="750" /> 
+  <img src="https://https://github.com/saulomarques/quizSegInfo/blob/main/images/logoQuizSI.png" width="190" heigth="190" />
+  <img src="https://github.com/saulomarques/quizSegInfo/blob/main/images/bannerQuiz.png" width="750" /> 
 </p>
   
 # 👉 Descrição: <a id="link2"></a>
@@ -38,7 +38,7 @@ O intuito é fazer com que o usuário leia mais sobre os assuntos de Segurança 
 * Em desenvolvimento... ⚠️ 👨‍💻
 
 # 👉 Vídeo de Apresentação/ Marketing <a id="link4"></a>
-<a href="https://www.youtube.com/watch?v=5NtNpFEypPE"><img src="https://github.com/saulomarques/app/blob/master/imagem_video_mkt.jpg" title="Clique e assista ao vídeo no YouTube" width="750" height="400" /></a>
+<a href="https://www.youtube.com/watch?v=5NtNpFEypPE"><img src="https://github.com/saulomarques/quizSegInfo/blob/main/images/imageVideoMkt.jpg" title="Clique e assista ao vídeo no YouTube" width="750" height="400" /></a>
 
 # 👉 Demonstração da Aplicação <a id="link5"></a>
 <a href="https://youtu.be/u7OmPQRWf3g"><img src="https://github.com/saulomarques/quizSegInfo/blob/main/images/miniaturayoutube_appquiz.jpg" title="Clique e assista ao vídeo no YouTube" width="750" height="400" /></a>
@@ -50,12 +50,15 @@ O intuito é fazer com que o usuário leia mais sobre os assuntos de Segurança 
 
 # 👉 Widget Tree <a id="link7"></a>
 
-<img src="https://github.com/saulomarques/app/blob/master/WidgetTree1.png" />
-<img src="https://github.com/saulomarques/app/blob/master/WidgetTree2.png" />
+<img src="https://github.com/saulomarques/quizSegInfo/blob/main/images/1.jpg" />
+<img src="https://github.com/saulomarques/quizSegInfo/blob/main/images/2.jpg" />
+<img src="https://github.com/saulomarques/quizSegInfo/blob/main/images/3.jpg" />
+<img src="https://github.com/saulomarques/quizSegInfo/blob/main/images/4.jpg" />
+<img src="https://github.com/saulomarques/quizSegInfo/blob/main/images/5.jpg" />
 
 # 👉 Gráfico de navegação das telas <a id="link8"></a>
 
-<img src="https://github.com/saulomarques/app/blob/master/Telas_Conexoes_app.jpg" />
+<img src="https://github.com/saulomarques/quizSegInfo/blob/main/images/Telas_app.jpg" />
 
 # 👉 Autor <a id="link9"></a>
 
@@ -65,7 +68,7 @@ O intuito é fazer com que o usuário leia mais sobre os assuntos de Segurança 
 
 * Guilherme H S Souza
 * Luís Felipe C de Amorim
-* 
+
 # 👉 Licença <a id="link10"></a>
 
 Livre. Esse app foi desenvolvido para fins didáticos e educativo.
