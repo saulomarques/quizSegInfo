@@ -50,11 +50,13 @@ O intuito é fazer com que o usuário leia mais sobre os assuntos de Segurança 
 
 # 👉 Widget Tree <a id="link7"></a>
 
+<p float="left">
 <img src="https://github.com/saulomarques/quizSegInfo/blob/main/images/1.jpg" height="600" />
 <img src="https://github.com/saulomarques/quizSegInfo/blob/main/images/2.jpg" height="600" />
 <img src="https://github.com/saulomarques/quizSegInfo/blob/main/images/3.jpg" />
 <img src="https://github.com/saulomarques/quizSegInfo/blob/main/images/4.jpg" />
 <img src="https://github.com/saulomarques/quizSegInfo/blob/main/images/5.jpg" />
+</p>
 
 # 👉 Gráfico de navegação das telas <a id="link8"></a>
 
